@@ -1,6 +1,6 @@
 # Experius Magento 2 Api SDK Client
 
-    `experius/magento2apiclient`
+    `lucasderijke/magento2apiclient`
     
 This is a simple PHP SDK lib to easy create Rest or Soap API Calls to Magento.
 
